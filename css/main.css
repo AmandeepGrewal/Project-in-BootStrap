@@ -1,0 +1,63 @@
+﻿/* Index
+____________________________________________________________
+1) Typography:
+2) BackGround
+3) Images
+4) Footer
+5) Others
+*/
+/*__________________________________________________________*/
+/*1)-Typography:*/
+.heading {
+    font-family: 'Abhaya Libre', serif;
+}
+
+.caption {
+    font-family: 'Coda', cursive;
+    font-weight: bold;
+}
+
+.text-indent {
+    text-indent: 1.5em;
+    margin: auto .2em;
+}
+
+/*__________________________________________________________*/
+/*2) BackGround*/
+.bgOrange {
+    background-color: #FFBA56;
+    color: #ffffff;
+}
+
+div.coins {
+    min-height: 40px;
+    background-image: url("../images/coin.jpeg");
+    background-repeat: repeat-x;
+    background-size: 25px 30px;
+    margin-bottom: 30px;
+    margin-top: -39px;
+}
+
+/*__________________________________________________________*/
+/*3) Images*/
+img {
+    width: 100%;
+    border-radius: 3%;
+    margin: 15px auto;
+}
+/*__________________________________________________________*/
+/*4) Footer*/
+.footer {
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* 5) Others*/
+.pdgbtm {
+    padding-bottom: 35px;
+}
+
+.pdg {
+    padding: 35px 10px 35px 10px;
+}
